@@ -12,7 +12,7 @@
 	<artifactId>bicycle-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bicycle-gateway</name>
-	<description>Demo project for Spring Boot</description>
+	<description>gateway service for bicycleRental</description>
 
 	<properties>
 		<java.version>1.8</java.version>
