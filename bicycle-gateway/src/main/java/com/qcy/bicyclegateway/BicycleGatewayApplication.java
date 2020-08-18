@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BicycleGatewayApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(BicycleGatewayApplication.class, args);
 	}
 
